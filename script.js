@@ -11,3 +11,4 @@ function change(image){
   image.src = 'assets/' + image.id + '_2.jpg';
 }
 */
+// il faut mettre this dans les paranthèses de onmouseover="change()"
